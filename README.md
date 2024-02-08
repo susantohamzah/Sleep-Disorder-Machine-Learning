@@ -6,6 +6,9 @@ Membuat machine learning untuk memprediksi sleep disorder pada pasien rumah saki
 ## **URL Dataset**
 [Dataset Sleep Healt and Lifestyle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data)
 
+## **Tech stack** 
+Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit, Hugging Face
+
 ## **Algoritma**
 KNeighborsClassifier, SVM, Decision Tree, Random Forest, and Boosting
 
