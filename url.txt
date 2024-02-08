@@ -1,0 +1,5 @@
+URL Dataset : https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
+
+URL Deployment : https://huggingface.co/spaces/Susantohamzah/SleepDisorderPredictions
+
+notes : if you want to try bulk upload, you can use data set original, thank u :)
